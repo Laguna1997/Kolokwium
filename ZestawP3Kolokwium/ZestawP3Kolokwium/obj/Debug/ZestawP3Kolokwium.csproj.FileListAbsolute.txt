@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\ZestawP3Kolokwium\ZestawP3Kolokwium\bin\Debug\ZestawP3Kolokwium.exe.config
+C:\Users\Dell\source\repos\ZestawP3Kolokwium\ZestawP3Kolokwium\bin\Debug\ZestawP3Kolokwium.exe
+C:\Users\Dell\source\repos\ZestawP3Kolokwium\ZestawP3Kolokwium\bin\Debug\ZestawP3Kolokwium.pdb
+C:\Users\Dell\source\repos\ZestawP3Kolokwium\ZestawP3Kolokwium\obj\Debug\ZestawP3Kolokwium.csprojResolveAssemblyReference.cache
+C:\Users\Dell\source\repos\ZestawP3Kolokwium\ZestawP3Kolokwium\obj\Debug\ZestawP3Kolokwium.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ZestawP3Kolokwium\ZestawP3Kolokwium\obj\Debug\ZestawP3Kolokwium.exe
+C:\Users\Dell\source\repos\ZestawP3Kolokwium\ZestawP3Kolokwium\obj\Debug\ZestawP3Kolokwium.pdb
